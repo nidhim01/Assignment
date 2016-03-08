@@ -1,0 +1,8 @@
+ {
+ "TEA":{"symbol":"TEA","type":"COMMON" ,"lastDividend":0 ,"parValue":100},
+ "POP":{"symbol":"POP","type":"COMMON" ,"lastDividend":8 ,"parValue":100},
+ "ALE":{"symbol":"ALE","type":"COMMON" ,"lastDividend":23 ,"parValue":60},
+ "GIN":{"symbol":"GIN","type":"PREFERRED" ,"lastDividend":8 ,"parValue":100,"fixedDividend":2},
+ "JOE":{"symbol":"JOE","type":"COMMON" ,"lastDividend":13 ,"parValue":250}
+ }
+ 
